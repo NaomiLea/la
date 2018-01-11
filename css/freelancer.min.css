@@ -98,7 +98,7 @@ header .intro-text .name {
 }
 
 .intro-text {
-  color: darksalmon;
+  color: white;
 }
 
 header .intro-text .skills {
@@ -120,7 +120,7 @@ header .intro-text .skills {
 }
 
 .navbar-custom {
-  background: #9247f1;
+  background: #964f9a;
   font-family: 'Love Ya Like A Sister', cursive;
   text-transform: uppercase;
   font-weight: 700;
@@ -196,8 +196,8 @@ section h2 {
 }
 
 section.success {
-  background: #18BC9C;
-  color: #fff
+  background: #efd349;
+  color: #964f9a
 }
 
 @media (max-width:767px) {
@@ -330,7 +330,7 @@ footer h3 {
 
 footer .footer-above {
   padding-top: 50px;
-  background-color: #C4D6B0
+  background-color: #7bab46;
 }
 
 footer .footer-col {
@@ -339,7 +339,7 @@ footer .footer-col {
 
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140
+  background-color: #7bab46;
 }
 
 .btn-outline {
@@ -376,7 +376,7 @@ footer .footer-below {
 
 .btn-primary.disabled, .btn-primary.disabled.active, .btn-primary.disabled:active, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled], .btn-primary[disabled].active, .btn-primary[disabled]:active, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary.active, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:hover {
   background-color: #C4D6B0;
-  border-color: #C4D6B0
+  border-color: #C4D6B0;
 }
 
 .btn-primary .badge {
@@ -386,8 +386,8 @@ footer .footer-below {
 
 .btn-success {
   color: #fff;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #964f9a;
+  border-color: #964f9a;
   font-weight: 700
 }
 
@@ -403,7 +403,7 @@ footer .footer-below {
 
 .btn-success.disabled, .btn-success.disabled.active, .btn-success.disabled:active, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled], .btn-success[disabled].active, .btn-success[disabled]:active, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success.active, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover {
   background-color: #18BC9C;
-  border-color: #18BC9C
+  border-color: #18BC9C;
 }
 
 .btn-success .badge {
